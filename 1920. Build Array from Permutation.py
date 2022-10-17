@@ -5,3 +5,4 @@ class Solution:
             t= nums[nums[n]]
             ans.append(t)
         return ans
+    
