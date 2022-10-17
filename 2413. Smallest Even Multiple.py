@@ -5,3 +5,4 @@ class Solution:
         else:
             out = 2*n
         return out
+    
