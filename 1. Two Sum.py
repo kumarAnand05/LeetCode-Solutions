@@ -6,3 +6,4 @@ class Solution:
                 if nums[n]+nums[m]== target:
                     return [n, m]
                     break
+                    
