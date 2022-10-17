@@ -40,3 +40,4 @@ class Solution:
             else:
                 score+= len(n)
         return score
+    
