@@ -12,3 +12,4 @@ class Solution:
                 res= False
                 break
         return res
+    
